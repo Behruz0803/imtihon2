@@ -73,6 +73,9 @@ main{
     margin-left: 170px;
     position: relative;
     top: 137px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
 }
 .content p{
     color: white;
